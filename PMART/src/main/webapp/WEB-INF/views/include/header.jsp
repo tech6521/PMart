@@ -2,6 +2,11 @@
     pageEncoding="UTF-8"%>
    
    <style>
+   body{
+   margin: 0px;
+   padding: 0px;
+   }
+   
    	.main-banner {
    		
    		margin:0;
@@ -76,7 +81,8 @@
    	<ul class="main-gnbm">
    	
    		<li><a href="SignIn">로그인 </a></li>
-   		<li><a href="#">회원가입 </a></li>
+   		<li><a href="Join">회원가입 </a></li>
+   		<li><a href="MyPage">마이페이지</a></li>
    		<li><a href="#">장바구니 </a></li>
    		<li><a href="#">고객센터 </a></li>
    	</ul>

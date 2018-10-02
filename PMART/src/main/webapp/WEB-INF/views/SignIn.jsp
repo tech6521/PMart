@@ -38,7 +38,7 @@ vertical-align: middle;}
       		<br>
       		<br>
       		<br>
-       		<h1>Prins Mall 로그인</h1>
+       		<h1 class="title">Prins Mall 로그인</h1>
        		<br>
        		<br>
        		<br>
